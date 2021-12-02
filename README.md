@@ -1,4 +1,4 @@
-# RandomPerson Ruby Gem
+# SimpleRandomPerson Ruby Gem
 
 ## Welcome
 
